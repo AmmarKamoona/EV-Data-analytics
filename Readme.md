@@ -1,8 +1,8 @@
 # Definitions
-### EV-PV: Households with Electric vehicle (EV) and with  solar panel installed at their homes.  
-### EV-nPV: Households with Electric vehicle and without solar panel installed at their homes.
-### nEV-PV: Households with solar panel installed at their homes and without EV.
-### nEV-nPV: Households without EV and  without solar panel installed at their homes.
+#### EV-PV: Households with Electric vehicle (EV) and with  solar panel installed at their homes.  
+#### EV-nPV: Households with Electric vehicle and without solar panel installed at their homes.
+#### nEV-PV: Households without EV solar and with panel installed at their homes and .
+#### nEV-nPV: Households without EV and without solar panel installed at their homes.
 
 # 1. Data prepareation
 
